@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\GUI Scripts\Windows\GUIMainMenu.cs">
+    <Files>
+      <File FileName="Assets\scripts\GUI Scripts\Windows\GUIMainMenu.cs" Line="38" Column="119" />
+      <File FileName="Assets\scripts\GUI Scripts\MainMenuCam.cs" Line="10" Column="48" />
+      <File FileName="Assets\scripts\Character Controller\Fade_InOut.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Health &amp; Lives\HealthCounter.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GUI Scripts\Windows\GUIAbout.cs" Line="20" Column="42" />
+      <File FileName="Assets\scripts\GUI Scripts\Windows\GUIMap.cs" Line="101" Column="3" />
+      <File FileName="Assets\scripts\GUI Scripts\GUIMaster.cs" Line="9" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
